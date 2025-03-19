@@ -25,11 +25,25 @@ Install Dependencies
 pip install -r requirements.txt
 
 Usage
-Run the following command in your terminal to start the task management tool:
+Run the following command in the terminal to start TaskMaster:
+
+bash
+复制
+python taskmaster.py
+TaskMaster supports the following commands:
+
+Add a task:
 
 ---bash
-python taskmaster.py
-Follow the on-screen instructions to manage your tasks.
+python taskmaster.py add "Task description" --priority 2
+List tasks:
+
+---bash
+python taskmaster.py list
+Remove a task:
+
+---bash
+python taskmaster.py remove 1
 
 Contributing
 Please refer to CONTRIBUTING.md for detailed guidelines on how to contribute.
