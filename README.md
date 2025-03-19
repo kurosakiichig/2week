@@ -14,7 +14,7 @@ TaskMaster is a lightweight command-line task management tool designed to help u
 
 1. **Clone the Repository**
    ---bash
-   git clone https://github.com/your-username/TaskMaster.git
+   git clone https://github.com/kurosakiichig/TaskMaster.git
 
 Navigate to the Project Directory
 ---bash
