@@ -27,8 +27,7 @@ pip install -r requirements.txt
 Usage
 Run the following command in the terminal to start TaskMaster:
 
-bash
-复制
+---bash
 python taskmaster.py
 TaskMaster supports the following commands:
 
