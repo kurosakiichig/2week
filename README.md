@@ -13,35 +13,35 @@ TaskMaster is a lightweight command-line task management tool designed to help u
 ## Installation
 
 1. **Clone the Repository**
-   ---bash
+  
    git clone https://github.com/kurosakiichig/TaskMaster.git
 
 Navigate to the Project Directory
----bash
+
 cd TaskMaster
 
 Install Dependencies
----bash
+
 pip install -r requirements.txt
 
 Usage
 Run the following command in the terminal to start TaskMaster:
 
----bash
+
 python taskmaster.py
 TaskMaster supports the following commands:
 
 Add a task:
 
----bash
+
 python taskmaster.py add "Task description" --priority 2
 List tasks:
 
----bash
+
 python taskmaster.py list
 Remove a task:
 
----bash
+
 python taskmaster.py remove 1
 
 Contributing
