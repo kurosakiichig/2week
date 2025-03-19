@@ -1,11 +1,9 @@
 This project is licensed under the MIT License. For more details, please see the LICENSE.md file.
 
 
----
 
 ### 2. CONTRIBUTING.md
 
-```markdown
 # Contributing Guidelines
 
 Thank you for your interest in contributing to the TaskMaster project! This guide is intended to help you smoothly contribute code and documentation.
@@ -16,5 +14,5 @@ Thank you for your interest in contributing to the TaskMaster project! This guid
    Click the Fork button on GitHub to copy this repository to your account.
 
 2. **Clone the Repository Locally**
-   ---bash
+   
    git clone https://github.com/your-username/TaskMaster.git
